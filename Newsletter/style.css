@@ -1,0 +1,50 @@
+.container2{
+    width: 1200px;
+    border: 2px solid rgb(94, 94, 94);
+    height: 550px;
+
+}
+.container9{
+    margin-left: 2%;
+}
+.container0{
+    width: 1100px;
+    height: 150px;
+    background-color: gray;
+
+}
+h3{
+    padding: 10px 10px;
+}
+p{
+    padding-left:10px;
+    margin-top:0%;
+}
+.container1{
+    width: 1100px;
+    height: 150px;
+    background-color: white;
+}
+.spc{
+    margin-top: 2%;
+    padding-right: 50px;
+}
+.btn{
+    width: 1085px;
+    height: 30px;
+    margin: 1%;
+    border: 1px solid #888686;
+    
+}
+.container3{
+    width: 1100px;
+    height: 90px;
+    background-color: gray;
+}
+.btn1{
+    margin-top: 2%;
+    margin-left: 1%;
+    width: 1070px;
+    height: 50px;
+    background-color: rgb(0, 217, 255);
+}
